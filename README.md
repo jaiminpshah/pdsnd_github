@@ -1,3 +1,7 @@
+#This project focuses on statistics methods to perform descriptive analysis on the bikeshare data from 3 major U.S. cities - Chicago, Washington, and New York City
+#to display information such as most popular days or most common stations.
+
+#Import time, pandas and numpy
 import time 
 import pandas as pd
 import numpy as np
