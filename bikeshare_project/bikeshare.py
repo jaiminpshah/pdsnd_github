@@ -1,3 +1,19 @@
+Type: test
+This is the test scripting to check bikeshare statistics.
+
+Subject: Bikeshare project
+
+Description:
+
+This scripting focuses on pandas library usage and simple statics methods to perform descriptive analysis on the bikeshare data.
+Bikeshare project
+
+This project display information such as most popular days or most common stations from 3 U.S cities - Chicago, Washington and New York City. This project also provides the data as per user request.
+
+This scripting focuses on pandas library usage and simple statics methods to perform descriptive analysis on the bikeshare data.
+
+fixes # all good
+
 import time 
 import pandas as pd
 import numpy as np
