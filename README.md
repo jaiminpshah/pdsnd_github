@@ -17,7 +17,7 @@ most common start station most common end station most common trip from start to
 
 total travel time average travel time
 
-#3 Counts
+#3 Number of user/gender
 counts of each user type
 counts of each gender (only available for NYC and Chicago)
 earliest, most recent, most common year of birth (only available for NYC and Chicago)
