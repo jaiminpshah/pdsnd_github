@@ -192,18 +192,7 @@ def showstatsforuser(city):
     if 'Gender' in df:
         print('Counts of each gender:\n', df['Gender'].value_counts())
 
-#Displays earliest birth year, recent birth year and popular birth year"""
-        
-    if 'Birth Year' in df:
-        earliestbirthyear = int(df['Birth Year'].min())
-        print('\n Earliest birth year :\n', earliestbirthyear)
-        recentbirthyear = int(df['Birth Year'].max())
-        print('\n most recent birth year:\n', recentbirthyear)
-        popularbirthyear = int(df['Birth Year'].mode()[0])
-        print('\n Most common year of birth:\n', popularbirthyear)
-        
-        print('\n')        
-               
+             
 def main():
     while True:
         city, month, day = takerequest ()
